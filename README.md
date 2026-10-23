@@ -1,4 +1,3 @@
-# AI-Connector-for-Bforartists-Blender
 
 # AI Connector for Bforartists & Blender
 
